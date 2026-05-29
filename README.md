@@ -1,4 +1,4 @@
-# 📚 Base de Conocimientos Avanzada - TI Nivel 2
+# 📚 Base de Conocimientos - TI Nivel 2
 
 Este repositorio ha sido diseñado y estructurado como un proyecto de optimización para el equipo de Soporte Técnico y Operaciones de TI. El objetivo principal es estandarizar los procesos de diagnóstico, mitigar la dependencia de escalamiento hacia niveles superiores y proporcionar soluciones efectivas a incidentes complejos de infraestructura, redes e identidades.
 
