@@ -27,7 +27,7 @@ A continuación, se detallan los manuales técnicos enfocados en el análisis de
 ### 4. ☁️ [Gestión de Identidades Modernas (Entra ID / M365)](https://github.com/wfpinzon/entra-id-mfa.git)
 * **Alcance:** Administración avanzada de accesos, auditoría de *Sign-in Logs*, revocación de sesiones globales y resolución de conflictos con la autenticación multifactor (MFA).
 
-### 5. ⚙️ [Auditoría y Diagnóstico de GPOs](guias/05-diagnostico-gpo.md)
+### 5. ⚙️ [Auditoría y Diagnóstico de GPOs](https://github.com/wfpinzon/diagnostico-gpo.git)
 * **Alcance:** Análisis avanzado de la aplicación de directivas de grupo mediante reportes estructurados en HTML (`gpresult`) y validación de conectividad con Controladores de Dominio.
 
 ---
