@@ -18,7 +18,7 @@ A continuación, se detallan los manuales técnicos enfocados en el análisis de
 ### 1. 🌐 [Conectividad y Redes Locales](https://github.com/wfpinzon/caidas-red.git) 
 * **Alcance:** Diagnóstico profundo de direccionamiento IP (DHCP), resolución de nombres (DNS) y técnicas de restablecimiento de la capa de red mediante consola.
 
-### 2. 👥 [Active Directory y Perfiles de Usuario](guias/02-active-directory.md)
+### 2. 👥 [Active Directory y Perfiles de Usuario](https://github.com/wfpinzon/active-directory.git)
 * **Alcance:** Reparación de canales seguros y relaciones de confianza con el dominio corporativo, junto con la reconstrucción segura de perfiles locales corruptos (`TEMP`).
 
 ### 3. 💻 [Sistemas Operativos y Recuperación (BSOD)](guias/03-pantallas-azules.md)
