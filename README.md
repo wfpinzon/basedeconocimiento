@@ -24,7 +24,7 @@ A continuación, se detallan los manuales técnicos enfocados en el análisis de
 ### 3. 💻 [Sistemas Operativos y Recuperación (BSOD)](https://github.com/wfpinzon/pantallas-azules.git)
 * **Alcance:** Uso de herramientas de despliegue e imagen (DISM) en entornos de recuperación (WinRE) para remover actualizaciones fallidas y reparar la integridad del sistema de archivos.
 
-### 4. ☁️ [Gestión de Identidades Modernas (Entra ID / M365)](guias/04-entra-id-mfa.md)
+### 4. ☁️ [Gestión de Identidades Modernas (Entra ID / M365)](https://github.com/wfpinzon/entra-id-mfa.git)
 * **Alcance:** Administración avanzada de accesos, auditoría de *Sign-in Logs*, revocación de sesiones globales y resolución de conflictos con la autenticación multifactor (MFA).
 
 ### 5. ⚙️ [Auditoría y Diagnóstico de GPOs](guias/05-diagnostico-gpo.md)
