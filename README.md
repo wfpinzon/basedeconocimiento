@@ -21,7 +21,7 @@ A continuación, se detallan los manuales técnicos enfocados en el análisis de
 ### 2. 👥 [Active Directory y Perfiles de Usuario](https://github.com/wfpinzon/active-directory.git)
 * **Alcance:** Reparación de canales seguros y relaciones de confianza con el dominio corporativo, junto con la reconstrucción segura de perfiles locales corruptos (`TEMP`).
 
-### 3. 💻 [Sistemas Operativos y Recuperación (BSOD)](guias/03-pantallas-azules.md)
+### 3. 💻 [Sistemas Operativos y Recuperación (BSOD)](https://github.com/wfpinzon/pantallas-azules.git)
 * **Alcance:** Uso de herramientas de despliegue e imagen (DISM) en entornos de recuperación (WinRE) para remover actualizaciones fallidas y reparar la integridad del sistema de archivos.
 
 ### 4. ☁️ [Gestión de Identidades Modernas (Entra ID / M365)](guias/04-entra-id-mfa.md)
