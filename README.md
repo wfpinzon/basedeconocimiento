@@ -15,7 +15,7 @@ Este repositorio ha sido diseñado y estructurado como un proyecto de optimizaci
 
 A continuación, se detallan los manuales técnicos enfocados en el análisis de causa raíz para incidencias críticas:
 
-### 1. 🌐 [Conectividad y Redes Locales](guias/01-caidas-red.md)
+### 1. 🌐 [Conectividad y Redes Locales](guias/01-caidas-red.md) https://github.com/wfpinzon/caidas-red.git
 * **Alcance:** Diagnóstico profundo de direccionamiento IP (DHCP), resolución de nombres (DNS) y técnicas de restablecimiento de la capa de red mediante consola.
 
 ### 2. 👥 [Active Directory y Perfiles de Usuario](guias/02-active-directory.md)
